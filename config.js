@@ -45,7 +45,7 @@ const config = {
         "alt": "Tugboat Annie’s waterfront patio with lunch and drinks"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/ketwk5822drmr0cwdraa1cyfvr.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Screenshot2026-02-18at3.11.04PM.png",
         "alt": "Kayaks lined up at the marina next to Tugboat Annie’s"
       },
       {
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771445402749_0",
+      "id": "q_auto_1771445482341_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771445402749_1",
+      "id": "q_auto_1771445482341_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771445402749_2",
+      "id": "q_auto_1771445482341_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
