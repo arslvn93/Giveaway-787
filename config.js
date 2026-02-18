@@ -7,7 +7,7 @@ const config = {
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>$250 Kayak + Lunch for 4</span> at Tugboat Annie’s!",
     "heroSubheadline": "Paddle Budd Inlet, then eat by the water. A perfect PNW afternoon for four. Local entries only. Ends March 17, 2026.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-THUMBNAILS(7).png",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Kayaking.png",
     "promotionDates": "Enter Feb 24 - Mar 17, 2026. Winner picked Mar 17, 2026.",
     "endDate": "2026-03-18T06:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
@@ -45,7 +45,7 @@ const config = {
         "alt": "Tugboat Annie’s waterfront patio with lunch and drinks"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/ketwk5822drmr0cwdraa1cyfvr.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Screenshot2026-02-18at3.11.04PM.png",
         "alt": "Kayaks lined up at the marina next to Tugboat Annie’s"
       },
       {
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771445678022_0",
+      "id": "q_auto_1771445691782_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771445678022_1",
+      "id": "q_auto_1771445691783_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771445678022_2",
+      "id": "q_auto_1771445691783_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
