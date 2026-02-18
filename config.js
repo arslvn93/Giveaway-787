@@ -45,11 +45,11 @@ const config = {
         "alt": "Tugboat Annie’s waterfront patio with lunch and drinks"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1771372114700-Screenshot%202026-02-17%20at%203.48.11%E2%80%AFPM.png",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/ketwk5822drmr0cwdraa1cyfvr.jpg",
         "alt": "Kayaks lined up at the marina next to Tugboat Annie’s"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/tp3m5qdg9hrmy0cwdrabhptwy4.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1771372114700-Screenshot%202026-02-17%20at%203.48.11%E2%80%AFPM.png",
         "alt": "Friends smiling with paddles by the water in Olympia"
       }
     ],
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771445075793_0",
+      "id": "q_auto_1771445402749_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771445075793_1",
+      "id": "q_auto_1771445402749_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771445075793_2",
+      "id": "q_auto_1771445402749_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
