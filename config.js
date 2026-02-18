@@ -1,21 +1,21 @@
 const config = {
   "meta": {
     "pageTitle": "Win $250 Kayak + Lunch at Tugboat Annie’s!",
-    "navBrandLogoText": "Charity Slawter",
+    "navBrandLogoText": "Live Well Home Group",
     "privacyPolicyLink": "https://thelivewellgroup.com/site/privacy-terms"
   },
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>$250 Kayak + Lunch for 4</span> at Tugboat Annie’s!",
     "heroSubheadline": "Paddle Budd Inlet, then eat by the water. A perfect PNW afternoon for four. Local entries only. Ends March 17, 2026.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/tcs0by84kxrmt0cwdr9a8ke2tg.jpg",
-    "promotionDates": "Enter Feb 24 – Mar 17, 2026. Winner picked Mar 17, 2026.",
+    "promotionDates": "Enter Feb 24 - Mar 17, 2026. Winner picked Mar 17, 2026.",
     "endDate": "2026-03-18T06:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter to Win Now!",
     "name": "Tugboat Annie’s Kayak + Lunch for 4 Giveaway",
     "successModalHeaderText": "You’re in the Draw!",
     "successModalMainMessage": "Your entry for the <strong>Tugboat Annie’s Kayak + Lunch for 4 Giveaway</strong> is in! Winner will be announced March 17, 2026 and notified by email and phone. Good luck!",
-    "successModalEmailPrompt": "Watch your email and phone on March 17, 2026—we’ll also post the winner on Instagram and Facebook."
+    "successModalEmailPrompt": "Watch your email and phone on March 17, 2026 - we’ll also post the winner on Instagram and Facebook."
   },
   "settings": {
     "confettiColors": [
@@ -28,16 +28,11 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re In!",
-    "mainMessage": "Your entry for the <strong>Tugboat Annie’s Kayak + Lunch for 4 Giveaway</strong> is in. We will draw on March 17, 2026 and contact the winner by email and phone. Good luck!",
-    "socialPromptText": "Watch your inbox on March 17. Follow us on Instagram and Facebook for the winner post."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -83,15 +78,15 @@ const config = {
     "name": "Tugboat Annie’s Kayak & Lunch for 4",
     "value": "$250 Value",
     "description": "Picture this: you push off from the dock at Tugboat Annie’s. Calm water. Fresh air. Laughter with your crew. After your paddle, you head to the patio for hot food and cold drinks. One gift card covers kayak rentals, food, and beverages. You choose how to split it. Simple. Fun. Local.",
-    "limitedTimeOfferText": "Local Spring Giveaway — Ends March 17!",
-    "ctaButtonText": "I Want This PNW Day!"
+    "limitedTimeOfferText": "Local Spring Giveaway - Ends March 17!",
+    "ctaButtonText": "I Want This Experience!"
   },
   "howToEnter": {
     "steps": [
       {
-        "icon": "fas fa-edit",
-        "title": "Fill Out the Form",
-        "description": "Add your name, email, and city. It takes 30 seconds."
+        "icon": "fab fa-instagram",
+        "title": "Follow us on Instagram",
+        "description": "Follow us @livewellhomegroup"
       },
       {
         "icon": "fas fa-clipboard-check",
@@ -128,8 +123,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -162,6 +155,8 @@ const config = {
       "Follow @livewellhomegroup for winner updates.",
       "Enter by March 17 so you don’t miss out."
     ],
+    "finePrintText": "Please read the fine print before entering.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "We pick the winner at random using a certified number tool. Every entry has the same chance. No tricks. No favorites."
@@ -177,80 +172,92 @@ const config = {
       "twitter": "https://twitter.com/intent/tweet?url=http%3A%2F%2FGiveaway-787.netlify.app%2Fadmin&text=Win%20%24250%20Kayak%20%2B%20Lunch%20at%20Tugboat%20Annie%E2%80%99s!"
     },
     "subtitle": "Enter your details below for a chance to win this local kayak + lunch day!",
-    "entryCountText": "Neighbors are entering now—don’t miss out!",
+    "entryCountText": "Neighbors are entering now - don’t miss out!",
     "socialSharePrompt": "Share this with a friend in Olympia, Lacey, Tumwater, or Yelm!"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757969005264_0",
-      "questionText": "What do you like the most about your current home?",
+      "id": "q_auto_1771430504545_0",
+      "questionText": "What's your current situation?",
       "options": [
         {
-          "value": "The location",
-          "text": "The location"
+          "value": "I own my home",
+          "text": "I own my home"
         },
         {
-          "value": "The layout",
-          "text": "The layout"
+          "value": "I rent",
+          "text": "I rent"
         },
         {
-          "value": "The finishes (paint, lighting, etc.)",
-          "text": "The finishes (paint, lighting, etc.)"
+          "value": "Live with family/friends",
+          "text": "Live with family/friends"
         },
         {
-          "value": "The outdoor space",
-          "text": "The outdoor space"
+          "value": "Between homes",
+          "text": "Between homes"
         }
       ]
     },
     {
-      "id": "q_auto_1757969005264_1",
-      "questionText": "Is a move on your radar in the near future?",
+      "id": "q_auto_1771430504545_1",
+      "questionText": "What are you looking to do?",
       "options": [
         {
-          "value": "Yes, sometime in 2025",
-          "text": "Yes, sometime in 2025"
+          "value": "Buy a home",
+          "text": "Buy a home"
         },
         {
-          "value": "Yes, in the next 1 - 2 years",
-          "text": "Yes, in the next 1 - 2 years"
+          "value": "Sell and buy",
+          "text": "Sell and buy"
         },
         {
-          "value": "Not at the moment",
-          "text": "Not at the moment"
+          "value": "Rent a place",
+          "text": "Rent a place"
         },
         {
-          "value": "I’m not sure yet",
-          "text": "I’m not sure yet"
+          "value": "Invest in property",
+          "text": "Invest in property"
         }
       ]
     },
     {
-      "id": "q_auto_1757969005264_2",
-      "questionText": "What’s your current housing situation?",
+      "id": "q_auto_1771430504545_2",
+      "questionText": "When are you planning to move?",
       "options": [
         {
-          "value": "I rent and am interested in buying",
-          "text": "I rent and am interested in buying"
+          "value": "ASAP",
+          "text": "ASAP"
         },
         {
-          "value": "I own and might sell within 2 years",
-          "text": "I own and might sell within 2 years"
+          "value": "3-6 months",
+          "text": "3-6 months"
         },
         {
-          "value": "I own and am happy where I am",
-          "text": "I own and am happy where I am"
+          "value": "6-12 months",
+          "text": "6-12 months"
         },
         {
-          "value": "I’m actively looking to buy or sell now",
-          "text": "I’m actively looking to buy or sell now"
+          "value": "12+ months",
+          "text": "12+ months"
         }
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "Almost there!",
+    "mainMessage": "Your information for the Tugboat Annie’s Kayak + Lunch for 4 Giveaway has been received. Complete your entry below to be eligible for the March 17 draw.\n",
+    "socialPromptText": "Follow us @livewellhomegroup on Instagram to complete your entry - only followers are eligible\n\n"
+  },
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/livewellhomegroup",
+      "facebook": "",
       "instagram": "https://www.instagram.com/livewellhomegroup"
     },
     "agentContact": {
