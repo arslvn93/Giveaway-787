@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771521665970_0",
+      "id": "q_auto_1771532168171_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771521665970_1",
+      "id": "q_auto_1771532168171_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771521665971_2",
+      "id": "q_auto_1771532168171_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -290,6 +290,6 @@ const config = {
     "repoUrl": "https://github.com/arslvn93/Giveaway-787",
     "netlifyUrl": "http://Giveaway-787.netlify.app",
     "netlifyId": "1160441639",
-    "tag": "Tugboat Annie’s Giveaway"
+    "tag": "Tugboat Annies Giveaway"
   }
 };
